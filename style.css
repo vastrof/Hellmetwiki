@@ -1,0 +1,50 @@
+header{
+    height: 800px;
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    color: aliceblue;
+    padding: 35px;
+    font-size: 200px;
+    background-image: url(https://tr.rbxcdn.com/00d86bd8af02dca35b7e73509a626ad7/768/432/Image/Webp);
+    background-size: cover;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    margin: 0px
+}
+.container{
+    background-color:rgb(213, 218, 196);
+    width: 80%;
+    padding: 5px;
+}
+.block1{
+    font-size: 20px;
+    text-align: justify;
+}
+.block2{
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(105, 133, 133);
+    text-align: center;
+    width: 100%;
+    padding: 0px;
+    height: 120px;
+}
+
+.social img{
+    width: 60px;
+}
+
+.social{
+    width: 1735px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
